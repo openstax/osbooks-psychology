@@ -1,0 +1,197 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11629</md:content-id>
+    <md:title>Psychology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>4abf04bf-93a0-45c3-9cbc-2cefd46e68cc</md:uuid>
+<md:slug>psychology</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m51868"/>
+    <col:subcollection>
+      <md:title>Introduction to Psychology</md:title>
+      <col:content>
+        <col:module document="m49027"/>
+        <col:module document="m49014"/>
+        <col:module document="m49017"/>
+        <col:module document="m49016"/>
+        <col:module document="m49015"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Psychological Research</md:title>
+      <col:content>
+        <col:module document="m49028"/>
+        <col:module document="m49013"/>
+        <col:module document="m49012"/>
+        <col:module document="m49011"/>
+        <col:module document="m49010"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Biopsychology</md:title>
+      <col:content>
+        <col:module document="m49029"/>
+        <col:module document="m48993"/>
+        <col:module document="m49003"/>
+        <col:module document="m49005"/>
+        <col:module document="m49006"/>
+        <col:module document="m49007"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>States of Consciousness</md:title>
+      <col:content>
+        <col:module document="m49030"/>
+        <col:module document="m49031"/>
+        <col:module document="m49032"/>
+        <col:module document="m49033"/>
+        <col:module document="m49036"/>
+        <col:module document="m49037"/>
+        <col:module document="m49038"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Sensation and Perception</md:title>
+      <col:content>
+        <col:module document="m49039"/>
+        <col:module document="m49040"/>
+        <col:module document="m49041"/>
+        <col:module document="m49042"/>
+        <col:module document="m49043"/>
+        <col:module document="m49044"/>
+        <col:module document="m49045"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Learning</md:title>
+      <col:content>
+        <col:module document="m49046"/>
+        <col:module document="m49047"/>
+        <col:module document="m49048"/>
+        <col:module document="m49049"/>
+        <col:module document="m49050"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Thinking and Intelligence</md:title>
+      <col:content>
+        <col:module document="m49051"/>
+        <col:module document="m49053"/>
+        <col:module document="m49055"/>
+        <col:module document="m49057"/>
+        <col:module document="m49060"/>
+        <col:module document="m49064"/>
+        <col:module document="m49065"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Memory</md:title>
+      <col:content>
+        <col:module document="m49090"/>
+        <col:module document="m49080"/>
+        <col:module document="m49085"/>
+        <col:module document="m49088"/>
+        <col:module document="m49094"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Lifespan Development</md:title>
+      <col:content>
+        <col:module document="m49097"/>
+        <col:module document="m49099"/>
+        <col:module document="m49109"/>
+        <col:module document="m49112"/>
+        <col:module document="m49114"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Emotion and Motivation</md:title>
+      <col:content>
+        <col:module document="m49058"/>
+        <col:module document="m49059"/>
+        <col:module document="m49061"/>
+        <col:module document="m49063"/>
+        <col:module document="m49066"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Personality</md:title>
+      <col:content>
+        <col:module document="m49068"/>
+        <col:module document="m49070"/>
+        <col:module document="m49072"/>
+        <col:module document="m49077"/>
+        <col:module document="m49086"/>
+        <col:module document="m49092"/>
+        <col:module document="m49101"/>
+        <col:module document="m51872"/>
+        <col:module document="m51873"/>
+        <col:module document="m51874"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social Psychology</md:title>
+      <col:content>
+        <col:module document="m49107"/>
+        <col:module document="m49110"/>
+        <col:module document="m49116"/>
+        <col:module document="m49120"/>
+        <col:module document="m49124"/>
+        <col:module document="m49128"/>
+        <col:module document="m49129"/>
+        <col:module document="m49134"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Industrial-Organizational Psychology</md:title>
+      <col:content>
+        <col:module document="m49121"/>
+        <col:module document="m49127"/>
+        <col:module document="m49135"/>
+        <col:module document="m49136"/>
+        <col:module document="m49140"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Stress, Lifestyle, and Health</md:title>
+      <col:content>
+        <col:module document="m49141"/>
+        <col:module document="m49142"/>
+        <col:module document="m49145"/>
+        <col:module document="m49151"/>
+        <col:module document="m49157"/>
+        <col:module document="m49159"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Psychological Disorders</md:title>
+      <col:content>
+        <col:module document="m49231"/>
+        <col:module document="m49265"/>
+        <col:module document="m49268"/>
+        <col:module document="m49257"/>
+        <col:module document="m49247"/>
+        <col:module document="m49238"/>
+        <col:module document="m49220"/>
+        <col:module document="m49237"/>
+        <col:module document="m49205"/>
+        <col:module document="m49184"/>
+        <col:module document="m49229"/>
+        <col:module document="m49178"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Therapy and Treatment</md:title>
+      <col:content>
+        <col:module document="m49168"/>
+        <col:module document="m49174"/>
+        <col:module document="m49154"/>
+        <col:module document="m49153"/>
+        <col:module document="m49146"/>
+        <col:module document="m49144"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
