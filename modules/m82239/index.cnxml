@@ -1,0 +1,224 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Trait Theorists</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m82239</md:content-id>
+  <md:title>Trait Theorists</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Discuss early trait theories of Cattell and Eysenck</item>
+<item>Discuss the Big Five factors and describe someone who is high and low on each of the five factors</item>
+</list></md:abstract>
+  <md:uuid>1dd37b37-828b-4b27-aae3-94cdf35c9b66</md:uuid>
+</metadata>
+
+<content>
+ <para id="fs-idp126272">Trait theorists believe personality can be understood via the approach that all people have certain <term>traits</term>, or characteristic ways of behaving. Do you tend to be sociable or shy? Passive or aggressive? Optimistic or pessimistic? Moody or even-tempered? Early trait theorists tried to describe all human personality traits. For example, one trait theorist, Gordon Allport (Allport &amp; Odbert, 1936), found 4,500 words in the English language that could describe people. He organized these personality traits into three categories: cardinal traits, central traits, and secondary traits. A cardinal trait is one that dominates your entire personality, and hence your life—such as Ebenezer Scrooge’s greed and Mother Theresa’s altruism. Cardinal traits are not very common: Few people have personalities dominated by a single trait. Instead, our personalities typically are composed of multiple traits. Central traits are those that make up our personalities (such as loyal, kind, agreeable, friendly, sneaky, wild, and grouchy). Secondary traits are those that are not quite as obvious or as consistent as central traits. They are present under specific circumstances and include preferences and attitudes. For example, one person gets angry when people try to tickle him; another can only sleep on the left side of the bed; and yet another always orders her salad dressing on the side. And you—although not normally an anxious person—feel nervous before making a speech in front of your English class.</para>
+<para id="fs-idp516400">In an effort to make the list of traits more manageable, Raymond Cattell (1946, 1957) narrowed down the list to about 171 traits. However, saying that a trait is either present or absent does not accurately reflect a person’s uniqueness, because all of our personalities are actually made up of the same traits; we differ only in the degree to which each trait is expressed. Cattell (1957) identified 16 factors or dimensions of personality: warmth, reasoning, emotional stability, dominance, liveliness, rule-consciousness, social boldness, sensitivity, vigilance, abstractedness, privateness, apprehension, openness to change, self-reliance, perfectionism, and tension (<link target-id="Table_11_07_01"/>). He developed a personality assessment based on these 16 factors, called the 16PF. Instead of a trait being present or absent, each dimension is scored over a continuum, from high to low. For example, your level of warmth describes how warm, caring, and nice to others you are. If you score low on this index, you tend to be more distant and cold. A high score on this index signifies you are supportive and comforting.</para>
+<table id="Table_11_07_01" class="top-titled" summary="A three column table compares low scores and high scores for personality factors measured by the 16PF Questionnaire. From left to right, the columns are labeled “Factor,” Low Score,” and “High Score.” The first row contains “warmth; reserved, detached; and outgoing, supportive.” The second row contains “intellect; concrete thinker; and analytical.” The third row contains “emotional stability; moody, irritable; and stable, calm.” The fourth row contains “aggressiveness; docile, submissive; and controlling, dominant.” The fifth row contains “liveliness; somber, prudent; and adventurous, spontaneous.” The sixth row contains “dutifulness; unreliable; and conscientious.” The seventh row contains “social assertiveness; shy, restrained; and uninhibited, bold.” The eighth row contains “sensitivity; tough-minded; and sensitive, caring.” The ninth row contains “paranoia; trusting; and suspicious.” The tenth row contains “abstractness; conventional; and imaginative.” The eleventh row contains “introversion; open, straightforward; and private, shrewd.” The twelfth row contains “anxiety; confident; and apprehensive.” The thirteenth row contains “openmindedness; closeminded, traditional; and curious, experimental.” The fourteenth row contains “independence; outgoing, social; and self-sufficient.” The fifteenth row contains “perfectionism; disorganized, casual; and organized, precise.” The sixteenth row contains “tension; relaxed; and stressed.”">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+  <row>
+    <entry namest="c1" nameend="c3" align="center">Personality Factors Measured by the 16PF Questionnaire</entry>
+  </row>
+<row>
+<entry>Factor</entry>
+<entry>Low Score</entry>
+<entry>High Score</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Warmth</entry>
+<entry>Reserved, detached</entry>
+<entry>Outgoing, supportive</entry>
+</row>
+<row>
+<entry>Intellect</entry>
+<entry>Concrete thinker</entry>
+<entry>Analytical</entry>
+</row>
+<row>
+<entry>Emotional stability</entry>
+<entry>Moody, irritable</entry>
+<entry>Stable, calm</entry>
+</row>
+<row>
+<entry>Aggressiveness</entry>
+<entry>Docile, submissive</entry>
+<entry>Controlling, dominant</entry>
+</row>
+<row>
+<entry>Liveliness</entry>
+<entry>Somber, prudent</entry>
+<entry>Adventurous, spontaneous </entry>
+</row>
+<row>
+<entry>Dutifulness</entry>
+<entry>Unreliable</entry>
+<entry>Conscientious</entry>
+</row>
+<row>
+<entry>Social assertiveness</entry>
+<entry>Shy, restrained</entry>
+<entry>Uninhibited, bold</entry>
+</row>
+<row>
+<entry>Sensitivity </entry>
+<entry>Tough-minded</entry>
+<entry>Sensitive, caring</entry>
+</row>
+<row>
+<entry>Paranoia</entry>
+<entry>Trusting</entry>
+<entry>Suspicious </entry>
+</row>
+<row>
+<entry>Abstractness</entry>
+<entry>Conventional</entry>
+<entry>Imaginative</entry>
+</row>
+<row>
+<entry>Introversion</entry>
+<entry>Open, straightforward</entry>
+<entry>Private, shrewd</entry>
+</row>
+<row>
+<entry>Anxiety</entry>
+<entry>Confident</entry>
+<entry>Apprehensive</entry>
+</row>
+<row>
+<entry>Openmindedness</entry>
+<entry>Closeminded, traditional</entry>
+<entry>Curious, experimental</entry>
+</row>
+<row>
+<entry>Independence</entry>
+<entry>Outgoing, social</entry>
+<entry>Self-sufficient</entry>
+</row>
+<row>
+<entry>Perfectionism</entry>
+<entry>Disorganized, casual</entry>
+<entry>Organized, precise</entry>
+</row>
+<row>
+<entry>Tension</entry>
+<entry>Relaxed</entry>
+<entry>Stressed</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+
+<note id="fs-idp132800" class="psychology link-to-learning"><label>Link to Learning</label>
+<para id="fs-idp1257472">Take this <link url="http://openstax.org/l/cattell">assessment based on Cattell's 16PF questionnaire</link> to see which personality traits dominate your personality.</para>
+</note>
+
+<para id="fs-idp311296">Psychologists Hans and Sybil <term class="no-emphasis">Eysenck</term> were personality theorists (<link target-id="Figure_11_07_Eysenck"/>) who focused on <term>temperament</term>, the inborn, genetically based personality differences that you studied earlier in the chapter. They believed personality is largely governed by biology. The Eysencks (Eysenck, 1990, 1992; Eysenck &amp; Eysenck, 1963) viewed people as having two specific personality dimensions: extroversion/introversion and neuroticism/stability.</para>
+<figure id="Figure_11_07_Eysenck"><media id="fs-idm3621312" alt="A photograph shows Hans and Sybil Eysenck together.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Psych_11_04_Eysenck.jpg"/>
+</media>
+
+<caption>Hans and Sybil Eysenck believed that our personality traits are influenced by our genetic inheritance. (credit: "Sirswindon"/Wikimedia Commons)</caption></figure><para id="fs-idp1309824">According to their theory, people high on the trait of extroversion are sociable and outgoing, and readily connect with others, whereas people high on the trait of introversion have a higher need to be alone, engage in solitary behaviors, and limit their interactions with others. In the neuroticism/stability dimension, people high on neuroticism tend to be anxious; they tend to have an overactive sympathetic nervous system and, even with low stress, their bodies and emotional state tend to go into a flight-or-fight reaction. In contrast, people high on stability tend to need more stimulation to activate their flight-or-fight reaction and are considered more emotionally stable. Based on these two dimensions, the Eysencks’ theory divides people into four quadrants. These quadrants are sometimes compared with the four temperaments described by the Greeks: melancholic, choleric, phlegmatic, and sanguine (<link target-id="Figure_11_04_Quadrants"/>).</para>
+<figure id="Figure_11_04_Quadrants"><media id="fs-idp1020336" alt="A circle is divided vertically and horizontally into four sections by lines with arrows at the ends. Clockwise from the top, the arrows are labeled “Unstable Emotions (Neurotic),” “Extroverted Personality,” “Stable Emotions,” and “Introverted Personality.” The arcs around the perimeter of the circle, clockwise beginning with the top right segment are labeled “Choleric,” “Sanguine,” “Phlegmatic,” and “Melancholic.” The sections inside each arc contain descriptive words. Inside the Choleric arc are the words “touchy, restless, aggressive, excitable, impulsive, and active.” Inside the Sanguine arc are the words “sociable, talkative, responsive, easygoing, lively, and carefree.” Inside the Phlegmatic arc are the words “passive, thoughtful, peaceful, controlled, reliable, and calm.” Inside the Melancholic arc are the words “moody, anxious, rigid, pessimistic, unsociable, and quiet.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Psych_11_04_Quadrants.jpg"/>
+</media>
+
+<caption>The Eysencks described two factors to account for variations in our personalities: extroversion/introversion and emotional stability/instability.</caption></figure><para id="fs-idp1255168">Later, the Eysencks added a third dimension: psychoticism versus superego control (Eysenck, Eysenck &amp; Barrett, 1985). In this dimension, people who are high on psychoticism tend to be independent thinkers, cold, nonconformists, impulsive, antisocial, and hostile, whereas people who are high on superego control tend to have high impulse control—they are more altruistic, empathetic, cooperative, and conventional (Eysenck, Eysenck &amp; Barrett, 1985).</para><para id="fs-idp374480">While Cattell’s 16 factors may be too broad, the Eysenck’s two-factor system has been criticized for being too narrow. Another personality theory, called the <term>Five Factor Model</term>, effectively hits a middle ground, with its five factors referred to as the Big Five personality factors. It is the most popular theory in personality psychology today and the most accurate approximation of the basic personality dimensions (Funder, 2001). The five factors are openness to experience, conscientiousness, extroversion, agreeableness, and neuroticism (<link target-id="Figure_11_07_BigFive"/>). A helpful way to remember the factors is by using the mnemonic OCEAN.</para>
+<para id="fs-idp5119312">In the Five Factor Model, each person has each factor, but they occur along a spectrum. Openness to experience is characterized by imagination, feelings, actions, and ideas. People who score high on this factor tend to be curious and have a wide range of interests. Conscientiousness is characterized by competence, self-discipline, thoughtfulness, and achievement-striving (goal-directed behavior). People who score high on this factor are hardworking and dependable. Numerous studies have found a positive correlation between conscientiousness and academic success (Akomolafe, 2013; Chamorro-Premuzic &amp; Furnham, 2008; Conrad &amp; Patry, 2012; Noftle &amp; Robins, 2007; Wagerman &amp; Funder, 2007). Extroversion is characterized by sociability, assertiveness, excitement-seeking, and emotional expression. People who score high on this factor are usually described as outgoing and warm. Not surprisingly, people who score high on both extroversion and openness are more likely to participate in adventure and risky sports due to their curious and excitement-seeking nature (Tok, 2011). The fourth factor is agreeableness, which is the tendency to be pleasant, cooperative, trustworthy, and good-natured. People who score low on agreeableness tend to be described as rude and uncooperative, yet one recent study reported that men who scored low on this factor actually earned more money than men who were considered more agreeable (Judge, Livingston, &amp; Hurst, 2012). The last of the Big Five factors is neuroticism, which is the tendency to experience negative emotions. People high on neuroticism tend to experience emotional instability and are characterized as angry, impulsive, and hostile. Watson and Clark (1984) found that people reporting high levels of neuroticism also tend to report feeling anxious and unhappy. In contrast, people who score low in neuroticism tend to be calm and even-tempered.</para>
+
+<figure id="Figure_11_07_BigFive"><media id="fs-idm5604240" alt="A diagram includes five vertically stacked arrows, which point to the left and right. A dimension's first letter, name, and description are included inside of each arrow. A box to the left of each arrow includes factors associated with a low score for that arrow's dimension. A box to the right of each arrow includes factors associated with a high score for that arrow's dimension. The top arrow includes the factor “openness,” which is described with the words, “imagination,” “feelings,” “actions,” and “ideas.” The box to the left of that arrow includes the words, “practical,” “conventional,” and “prefers routine,” while the box to the right of that arrow includes the words, “curious,” “wide range of interests,” and “independent.” The next arrow includes the factor “conscientiousness,” which is described with the words, “competence,” “self-discipline,” “thoughtfulness,” and “goal-driven.” The box to the left of that arrow includes the words, “impulsive,” “careless,” and “disorganized,” while the box to the right of that arrow includes the words, “hardworking,” “dependable,” and “organized.” The next arrow includes the factor “extroversion,” which is described with the words, “sociability,” “assertiveness,” and “emotional expression.” The box to the left of that arrow includes the words, “quiet,” “reserved,” and “withdrawn,” while the box to the right of that arrow includes the words, “outgoing,” “warm,” and “seeks adventure.” The next arrow includes the factor “agreeableness,” which is described with the words, “cooperative,” “trustworthy,” and “good-natured.” The box to the left of that arrow includes the words, “critical,” “uncooperative,” and “suspicious,” while the box to the right of that arrow includes the words, “helpful,” “trusting,” and “empathetic.” The next arrow includes the factor “neuroticism,” which is described as “tendency toward unstable emotions.” The box to the left of that arrow includes the words, “calm,” “even-tempered,” and “secure,” while the box to the right of that arrow includes the words, “anxious,” “unhappy,” and “prone to negative emotions.”">
+<image mime-type="image/jpeg" src="../../media/CNX_Psych_11_07_BigFive.jpg"/>
+</media>
+<caption>In the Five Factor Model, each person has five factors, each scored on a continuum from high to low. In the center column, notice that the first letter of each factor spells the mnemonic OCEAN.</caption></figure>
+
+
+
+<para id="fs-idm4980480">The Big Five personality factors each represent a range between two extremes. In reality, most of us tend to lie somewhere midway along the continuum of each factor, rather than at polar ends. It’s important to note that the Big Five factors are relatively stable over our lifespan, with some tendency for the factors to increase or decrease slightly. Researchers have found that conscientiousness increases through young adulthood into middle age, as we become better able to manage our personal relationships and careers (Donnellan &amp; Lucas, 2008). Agreeableness also increases with age, peaking between 50 to 70 years (Terracciano, McCrae, Brant, &amp; Costa, 2005). Neuroticism and extroversion tend to decline slightly with age (Donnellan &amp; Lucas; Terracciano et al.). Additionally, The Big Five factors have been shown to exist across ethnicities, cultures, and ages, and may have substantial biological and genetic components (Jang, Livesley, &amp; Vernon, 1996; Jang et al., 2006; McCrae &amp; Costa, 1997; Schmitt et al., 2007).</para>
+
+<para id="zip-idm200082160">Another model of personality traits is the HEXACO model. HEXACO is an acronym for six broad traits: honesty-humility, emotionality, extraversion, agreeableness, conscientiousness, and openness to experience (Anglim &amp; O’Connor, 2018). <link target-id="Table_11_07_02"/> provides a brief overview of each trait.</para>
+<table id="Table_11_07_02" class="top-titled" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2" align="center">The HEXACO Traits</entry>
+</row>
+<row>
+<entry>Trait</entry>
+<entry>Example Aspects of Trait</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>(H) Honesty-humility</entry><entry>Sincerity, modesty, faithfulness</entry></row>
+<row><entry>(E) Emotionality</entry><entry>Sentimentality, anxiety, sensitivity</entry></row>
+<row><entry>(X) Extraversion</entry><entry>Sociability, talkativeness, boldness</entry></row>
+<row><entry>(A) Agreeableness</entry><entry>Patience, tolerance, gentleness</entry></row>
+<row><entry>(C) Conscientiousness</entry><entry>Organization, thoroughness, precision</entry></row>
+<row><entry>(O) Openness </entry><entry>Creativity, inquisitiveness, innovativeness</entry></row>
+</tbody>
+</tgroup>
+</table>
+
+<note id="fs-idp7808" class="psychology link-to-learning"><label>Link to Learning</label>
+<para id="fs-idp88256">Take the <link url="http://openstax.org/l/big5">Big Five Personality test</link> to find out about your personality and where you fall on the Big Five factors.</para>
+</note>
+
+<section id="fs-idp2003600" class="summary">
+<title>Summary</title>
+<para id="fs-idp5682064">Trait theorists attempt to explain our personality by identifying our stable characteristics and ways of behaving. They have identified important dimensions of personality. The Five Factor Model is the most widely accepted theory today. The five factors are openness, conscientiousness, extroversion, agreeableness, and neuroticism. These factors occur along a continuum.</para>
+</section>
+
+<section id="fs-idp146150384" class="review-questions">
+<title>Review Questions</title>
+
+<exercise id="fs-idp99350112">
+<problem id="fs-idp105732800">
+<para id="fs-idp48879158">According to the Eysencks’ theory, people who score high on neuroticism tend to be ________.
+</para>
+<list id="fs-idm7764500" list-type="enumerated" number-style="lower-alpha">
+<item>calm</item>
+<item>stable</item>
+<item>outgoing</item>
+<item>anxious</item>
+</list>
+</problem>
+<solution id="fs-idp151665712"><para id="fs-idm25513774">D</para></solution>
+</exercise>
+</section>
+
+<section id="fs-idm5609840" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp1975712">
+<problem id="fs-idp240048"><para id="fs-idm44544">How stable are the Big Five factors over one’s lifespan?</para></problem>
+<solution id="fs-idm994208"><para id="fs-idm994080">The Big Five traits are relatively stable over our lifespan with a tendency for the traits to increase or decrease slightly. Researchers have found that conscientiousness increases through young adulthood into middle age, as we become better able to manage our personal relationships and careers. Agreeableness also increases with age, peaking between 50 to 70 years. However, neuroticism and extroversion tend to decline slightly with age.</para></solution>
+</exercise>
+
+<exercise id="fs-idm69504">
+<problem id="fs-idm4494848"><para id="fs-idp4919568">Compare the personality of someone who scores high on agreeableness to someone who scores low on agreeableness.</para></problem>
+<solution id="fs-idm924208"><para id="fs-idm995580">A person with a high score on agreeableness is typically pleasant, cooperative, trustworthy and good-natured. People who score low on agreeableness tend to be described as rude and uncooperative. They may be difficult with which to work.</para></solution>
+</exercise>
+
+
+</section>
+
+<section id="fs-idp176800" class="personal-application">
+<title>Personal Application Questions</title>
+<exercise id="fs-idm3655648">
+<problem id="fs-idp5124688"><para id="fs-idp5124816">Review the Big Five personality factors shown in <link target-id="Figure_11_07_BigFive"/>. On which areas would you expect you’d score high? In which areas does the low score more accurately describe you?</para></problem>
+</exercise>
+</section>
+
+
+</content>
+<glossary>
+<definition id="fs-idp361552"><term>Five Factor Model </term><meaning id="fs-idp361936">theory that personality is composed of five factors, including openness, conscientiousness, extroversion, agreeableness, and neuroticism</meaning></definition>
+<definition id="fs-idp4910448"><term>traits </term><meaning id="fs-idp4910832">characteristic ways of behaving</meaning></definition>
+</glossary>
+</document>
