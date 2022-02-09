@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="psychology" collection-id="col11629" href="../collections/psychology.collection.xml" />
+    <book slug="psychology" collection-id="col11629" style="psychology" href="../collections/psychology.collection.xml" />
 </container>
