@@ -86,16 +86,16 @@
     </section>
   </section>
   <section id="fs-idm29059008" class="summary">
-    <title>Summary</title><para id="fs-idm30624160">The different stages of sleep are characterized by the patterns of brain waves associated with each stage. As a person transitions from being awake to falling asleep, alpha waves are replaced by theta waves. Sleep spindles and K-complexes emerge in stage 2 sleep. Stage 3 and stage 4 are described as slow-wave sleep that is marked by a predominance of delta waves. REM sleep involves rapid movements of the eyes, paralysis of voluntary muscles, and dreaming. Both NREM and REM sleep appear to play important roles in learning and memory. Dreams may represent life events that are important to the dreamer. Alternatively, dreaming may represent a state of protoconsciousness, or a virtual reality, in the mind that helps a person during consciousness.</para>
+    <title>Summary</title><para id="fs-idm30624160">The different stages of sleep are characterized by the patterns of brain waves associated with each stage. As a person transitions from being awake to falling asleep, alpha waves are replaced by theta waves. Sleep spindles and K-complexes emerge in stage NREM 2 sleep.  NREM stage 3 is described as slow-wave sleep that is marked by a predominance of delta waves. REM sleep involves rapid movements of the eyes, paralysis of voluntary muscles, and dreaming. Both NREM and REM sleep appear to play important roles in learning and memory. Dreams may represent life events that are important to the dreamer. Alternatively, dreaming may represent a state of protoconsciousness, or a virtual reality, in the mind that helps a person during consciousness.</para>
   </section>
 
   <section id="fs-idp5531008" class="review-questions">
     <title>Review Questions</title><exercise id="fs-idm105179072">
       <problem id="fs-idp1129376"><para id="fs-idm115325840">________ is(are) described as slow-wave sleep.</para>
         <list id="fs-idm119985312" list-type="enumerated" number-style="lower-alpha">
-          <item>stage 1</item>
-          <item>stage 2</item>
-          <item>stage 3 and stage 4</item>
+          <item>NREM stage 1 sleep</item>
+          <item>NREM stage 2 sleep</item>
+          <item>NREM stage 3 sleep</item>
           <item>REM sleep</item>
         </list>
       </problem>
@@ -105,9 +105,9 @@
     <exercise id="fs-idm88813632">
       <problem id="fs-idm147044304"><para id="fs-idp2422496">Sleep spindles and K-complexes are most often associated with ________ sleep.</para>
         <list id="fs-idp13773616" list-type="enumerated" number-style="lower-alpha">
-          <item>stage 1</item>
-          <item>stage 2</item>
-          <item>stage 3 and stage 4</item>
+          <item>NREM stage 1 sleep</item>
+          <item>NREM stage 2 sleep</item>
+          <item>NREM stage 3 sleep</item>
           <item>REM</item>
         </list>
       </problem>
@@ -115,7 +115,7 @@
     </exercise>
 
     <exercise id="fs-idp34384432">
-      <problem id="fs-idm20397232"><para id="fs-idp4372144">Symptoms of ________ may be improved by REM deprivation.</para>
+      <problem id="fs-idm20397232"><para id="fs-idp4372144">Symptoms of ________ may be improved by REM rebound.</para>
         <list id="fs-idm90341744" list-type="enumerated" number-style="lower-alpha">
           <item>schizophrenia</item>
           <item>Parkinson’s disease</item>
